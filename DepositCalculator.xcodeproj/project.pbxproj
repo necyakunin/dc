@@ -386,6 +386,7 @@
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "DepositCalculator/DepositCalculator-Prefix.pch";
 				INFOPLIST_FILE = "DepositCalculator/DepositCalculator-Info.plist";
+				MACOSX_DEPLOYMENT_TARGET = 10.6;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				WRAPPER_EXTENSION = app;
 			};
@@ -398,6 +399,7 @@
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "DepositCalculator/DepositCalculator-Prefix.pch";
 				INFOPLIST_FILE = "DepositCalculator/DepositCalculator-Info.plist";
+				MACOSX_DEPLOYMENT_TARGET = 10.6;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				WRAPPER_EXTENSION = app;
 			};
@@ -452,6 +454,7 @@
 				59859AD116F588CF000E09D5 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		59859AD216F588CF000E09D5 /* Build configuration list for PBXNativeTarget "DepositCalculatorTests" */ = {
 			isa = XCConfigurationList;
@@ -460,6 +463,7 @@
 				59859AD416F588CF000E09D5 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
